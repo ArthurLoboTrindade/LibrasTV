@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.app"
+    namespace = "com.example.view"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
