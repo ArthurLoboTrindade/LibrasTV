@@ -1,4 +1,4 @@
 package com.example.viewmodel;
 
-public class HomeViewModel {
+public class PerfilViewModel {
 }
